@@ -1,6 +1,9 @@
 body {
     margin: 0;
 }
+header {
+  display: none;
+}
 .control-box {
     position: fixed;
     left: calc(50% - 160px);
