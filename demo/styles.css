@@ -1,7 +1,7 @@
 body {
     margin: 0;
 }
-header {
+body > div > h1, body > div > p {
   display: none;
 }
 .control-box {
