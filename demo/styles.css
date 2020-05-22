@@ -1,9 +1,6 @@
 body {
     margin: 0;
 }
-h1, p {
-  display: none;
-}
 .control-box {
     position: fixed;
     left: calc(50% - 160px);
