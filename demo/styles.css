@@ -29,6 +29,7 @@ body {
     padding: 20px;
 }
 .control-box-button {
+    background-color: white;
     margin: 0 auto;
     display: block;
     -webkit-appearance: none;
