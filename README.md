@@ -7,4 +7,4 @@ Link to demonstration of a custom element: https://psilore.github.io/shadow-root
 
 #### Screenshot
 
-![Screenshot of shadow DOM example](https://drive.google.com/uc?id=1XLsqEvhPwTnHEZ-IWt6RfdYK91_x9u3G)
+![Screenshot of shadow DOM example](https://github.com/psilore/shadow-root/blob/6f2c441aaabfeeabf1031598c9241fcb370c5edc/docs/images/screenshot.png)
